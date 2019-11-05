@@ -3,8 +3,8 @@ $inactiveCompsOU = "DC=contoso,DC=com"
 $inactiveUsersOU = "DC=contoso,DC=com"
 
 #### Edit where you want to save your CSV file to #####
-$savetocsvcomputers = "C:\Users\vspangler\Desktop\stale_computers.csv"
-$savetocsvusers = "C:\Users\vspangler\Desktop\stale_users.csv"
+$savetocsvcomputers = "C:\Users\USERS\Desktop\stale_computers.csv"
+$savetocsvusers = "C:\Users\USERS\Desktop\stale_users.csv"
 
 #### Do Not Modify ####
 $todayDate = Get-Date
